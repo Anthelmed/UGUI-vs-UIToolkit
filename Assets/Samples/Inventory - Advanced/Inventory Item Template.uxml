@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Button name="Item" style="width: 72px; height: 72px; margin-top: 6px; margin-right: 6px; margin-bottom: 6px; margin-left: 6px; background-image: url(&apos;project://database/Assets/Samples/Inventory%20-%20Advanced/Textures/Item%20Background.png?fileID=2800000&amp;guid=08cc3f7ca24e9ff43a6199a58566f582&amp;type=3#Item Background&apos;); background-color: rgb(255, 255, 255); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+        <ui:VisualElement name="Icon" style="position: absolute; top: 18px; right: 18px; left: 18px; bottom: 18px;" />
+    </ui:Button>
+</ui:UXML>

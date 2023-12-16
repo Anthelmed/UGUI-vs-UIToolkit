@@ -1,0 +1,50 @@
+.button {
+    margin-top: 1px;
+    margin-right: 0;
+    margin-bottom: 1px;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 1px;
+    border-left-width: 0;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    flex-grow: 1;
+    font-size: 28px;
+    -unity-font-definition: url('project://database/Assets/Samples/Fonts/OpenSans-SemiBold.ttf?fileID=12800000&guid=f42f03c1c7fd117498792ac28c1600f9&type=3#OpenSans-SemiBold');
+    color: rgb(255, 255, 255);
+}
+
+.button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition-property: all, background-color, color;
+    transition-duration: 0s, 100ms, 100ms;
+    transition-timing-function: ease, linear, linear;
+    transition-delay: 0s, 0s, 0s;
+}
+
+.button:selected {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition-property: all, background-color, color;
+    transition-duration: 0s, 100ms, 100ms;
+    transition-timing-function: ease, linear, linear;
+    transition-delay: 0s, 0s, 0s;
+}
+
+.button:focus {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    transition-property: all, background-color, color;
+    transition-duration: 0s, 100ms, 100ms;
+    transition-timing-function: ease, linear, linear;
+    transition-delay: 0s, 0s, 0s;
+}

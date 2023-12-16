@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a98e184426e87e498167af55b4062f1, type: 3}
+  m_Name: Inventory Item Data 8
+  m_EditorClassIdentifier: 
+  name: Item 8 - Skull
+  icon: {fileID: 21300000, guid: fbef0b1a59b4ad840890ea0db99eccc2, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
