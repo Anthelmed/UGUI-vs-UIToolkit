@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 55868791}
   - component: {fileID: 55868790}
   m_Layer: 5
-  m_Name: Dialogue (World Space) UIDocument
+  m_Name: Dialogue UIDocument
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -752,7 +752,7 @@ PrefabInstance:
     - target: {fileID: 1410825478166827744, guid: c969082976450714ea284f2a33dc1dff,
         type: 3}
       propertyPath: m_Name
-      value: Dialogue (World Space) Canvas
+      value: Dialogue Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 1410825478166827744, guid: c969082976450714ea284f2a33dc1dff,
         type: 3}
