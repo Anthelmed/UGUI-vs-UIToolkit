@@ -6,6 +6,8 @@
  Wireframe asset: https://interfaceingame.gumroad.com/l/interfaceingame
 </pre>
 
+Disclaimer: this project is not meant to showcase best practices using uGUI or UIToolkit, it's about achieving the same behaviors for both in the simplest manner possible 
+
 ## Main Menu Scene
  Features buttons with mouse interactions (hover, selected, highlighted)
 
